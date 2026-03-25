@@ -855,6 +855,7 @@ class Game {
         }
     }
 }
+
 class View {
     constructor(element, game, perspective) {
         this.element = element;
